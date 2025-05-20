@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Next js and React
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning three.js and sharing my 3d devjourney.
 - 👯 I’m looking to collaborate on full stack next js projects
 
 
