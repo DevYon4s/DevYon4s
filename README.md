@@ -1,7 +1,6 @@
-<h2 align="center">Hi there 👋</h2>
+<h2>👋 Hi there</h2>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
@@ -31,13 +30,18 @@
 </div>
 
 ###
-
-<div align="center">
+## 🏆 GitHub Trophies
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=DevYon4s&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevYon4s&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  
 </div>
 
 ###
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <div align="center">
   <a href="https://t.me/+251905303242" target="_blank">
@@ -54,7 +58,7 @@
   </a>
 </div>
 
-###
+
 
 <div align="left">
 </div>
